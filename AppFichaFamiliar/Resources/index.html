@@ -1,0 +1,329 @@
+﻿<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+    <style>
+        *{
+            font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'Segoe UI';
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+        .menu{
+            font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'Segoe UI';
+            max-width:1200px;
+            margin:auto;    
+            font-size:14px;
+            margin-top:20px;
+            border: 1px  dotted #909090;
+            border-radius:13px 14px ;
+            color:#595756;
+
+        }
+        td.titulo{
+            margin:5px 0 5px 0;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border: 1px SOLID #909090;
+            background-color:#DBECE3;
+            color: #595756;
+            width:140px;
+            font-size:20px;
+            text-align:center;
+            font-weight:bolder;
+        }
+        .dispersion{
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                border: 1px  dotted #e8e8e8;
+                background-color:#e8e8e8;
+                color: #595756;
+                border-radius:15px 15px;
+                text-align:center;
+                width:180px;
+                font-size:20px; 
+                font-weight:bolder;
+        }
+        .incorporacion{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                border: 1px  dotted #e8e8e8;
+                background-color:#e8e8e8;
+                color: #595756;
+                border-radius:15px 15px;
+                text-align:center;
+                width:120px;
+                font-size:20px; 
+                font-weight:bolder;
+        }
+        table.border tr{
+            margin:5px;
+            padding: 5px;
+            
+        }
+        table.border th {
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin:5px;
+                padding: 5px;
+                border: 1px  dotted #e8e8e8;
+                border-radius:15px 15px;
+                background-color:#DBECE3;
+                color: #595756;
+                width:140px;
+                font-size:13px;  
+                text-align:center;
+        }
+        table.border td {
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin:5px;
+                padding: 5px;
+                border: 1px  dotted #e8e8e8;
+                color: #595756;
+                border-radius:15px 15px;
+                text-align:center;
+                width:150px;
+                font-size:13px;
+            }
+
+    </style>
+
+</head>
+
+<body>
+    <!--Encabezado-->
+    <table style="width:100%; border-radius:13px 14px;" class="menu">
+        <tr>
+            <td style="width:25%">
+                <table class="border" style="width:100%">
+                    <tr><td align="center"> <img src="./logo1.png" alt="" /></td></tr>
+                </table>
+            </td>
+            <td style="width:50%">
+                <table class="border" style="width:100%">
+                    <tr><td align="center" ; style="font-size:24px;">Ficha Familiar </td></tr>
+                </table>
+            </td>
+            <td style="width:25%">
+                <table class="border" style="width:100%">
+                    <tr><td align="center"><img src="./logo2.png" alt="" /></td></tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+    <!--Cuerpo del Pdf-->
+    <table style="width:100%">
+        <tr>
+            <td style="width:80% auto; ">
+                <table class="border" style="width:100%">
+                    <tr>
+                        <td colspan="5" class="titulo">Datos Tutora </td>
+                    </tr>
+                    <tr>
+                        <th colspan="2"> Nombre Tutora</th>
+                        <td colspan="3">@NombreTutora</td>
+                    </tr>
+                    <tr>
+                        <th colspan="2">Curp Tutora</th>
+                        <td colspan="3">@curpTutora</td>
+                    </tr>
+                    <tr>
+                        <th colspan="2">Id Tutora</th>
+                        <td colspan="3">@IdTutora</td>
+                    </tr>
+                    <tr>
+                        <th colspan="2">Estatus Tutora</th>
+                        <td colspan="3">@estadoTutora</td>
+                    </tr>
+                    <tr>
+                        <th>Año Baja</th>
+                        <td>@anioBaja</td>
+                        <th>Bimestre Baja</th>
+                        <td colspan="2">@BimBaja</td>
+                    </tr>
+                    <tr>
+
+                        <th colspan="2">Causal Baja</th>
+                        <td colspan="3">@causalBaja</td>
+                    </tr>
+                </table>
+            </td>
+            <td style="width:80% auto;">
+                <table class="border" style="width:100%">
+                    <tr>
+                        <td class="titulo" colspan="5">Datos Territoriales </td>
+                    </tr>
+                    <tr>
+                        <th colspan="2">Cve. Localidad</th>
+                        <td colspan="2">@CveLocalidad</td>
+                    </tr>
+                    <tr>
+                        <th>Cve.Mun</th>
+                        <td>@cveMun</td>
+                        <th>Cve.Loc</th>
+                        <td>@cveLocalidad</td>
+                    </tr>
+                    <tr>
+                        <th>Municipio</th>
+                        <td colspan="3">@Municipio</td>
+                    </tr>
+                    <tr>
+                        <th>Localidad</th>
+                        <td colspan="3">@Localidad</td>
+                    </tr>
+                    <tr>
+                        <th>Cve. Region</th>
+                        <td>@IdRegion</td>
+                        <th>Region</th>
+                        <td colspan="2">@NombreRegion</td>
+                    </tr>
+                    <tr>
+                        <th>Cve. Sare</th>
+                        <td>@IdSare</td>
+                        <th>Sare</th>
+                        <td colspan="2">@NombreSare</td>
+                    </tr>
+                </table>
+            </td>
+            
+
+        </tr>
+    </table>
+
+    <table style="width:100%">
+        <tr>
+            <td style="width:100%;">
+                <table class="border" style="width:100%">
+                    <tr>
+                        <td colspan="9" class="titulo" >Dispersion de Apoyo a Tutora</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>Beca Incorporacion</th>
+                        <th>Beca Rezago</th>
+                        <th>Beca Ene - Feb</th>
+                        <th>Beca Mar - Abr</th>
+                        <th>Beca May - Jun</th>
+                        <th>Beca Jul - Agos</th>
+                        <th>Beca Sept  - Oct</th>
+                        <th>Beca Nov - Dic</th>
+                    </tr>
+                    <tr>
+                        <td class="dispersion">Año 2022</td>
+                        <td>@Incorporacion22</td>
+                        <td>@Rezago22</td>
+                        <td>@EneFeb22</td>
+                        <td>@MarAbr22</td>
+                        <td>@MayJun22</td>
+                        <td>@JulAgos22</td>
+                        <td>@SeptOct22</td>
+                        <td>@NovDic22</td>
+
+                    </tr>
+                    <tr>
+                        <td class="dispersion">Año 2021</td>
+                        <td>@Incorporacion21</td>
+                        <td>@Rezago21</td>
+                        <td>@EneFeb21</td>
+                        <td>@MarAbr21</td>
+                        <td>@MayJun21</td>
+                        <td>@JulAgos21</td>
+                        <td>@SeptOct21</td>
+                        <td>@NovDic21</td>
+                    </tr>
+                    <tr>
+                        <td class="dispersion">Año 2020</td>
+                        <td>@Incorporacion20</td>
+                        <td>@Rezago20</td>
+                        <td>@EneFeb20</td>
+                        <td>@MarAbr20</td>
+                        <td>@MayJun20</td>
+                        <td>@JulAgos20</td>
+                        <td>@SeptOct20</td>
+                        <td>@NovDic20</td>
+                    </tr>
+                    <tr>
+                        <td class="dispersion">Año 2019</td>
+                        <td>@Incorporacion19</td>
+                        <td>@Rezago19</td>
+                        <td>@EneFeb19</td>
+                        <td>@MarAbr19</td>
+                        <td>@MayJun19</td>
+                        <td>@JulAgos19</td>
+                        <td>@SeptOct19</td>
+                        <td>@NovDic19</td>
+                    </tr>
+
+                </table>
+           </td>
+        </tr>
+    </table>
+
+
+    <table style="width:100%;">
+                    <tr>
+                        <td>
+                            <table class="border" style="width:100%">
+                                <tr>
+                                    <td class="titulo" >Incorporacion Familiar </td>
+                                </tr>
+                            </table>
+                            <table class="border" style="width:100%">
+                                    <tr>
+                                        <td rowspan="2" class="incorporacion"> Año Operativo</td>
+                                        <td colspan="6" class="titulo">CRIS </td>
+                                        <td colspan="6" class="titulo">Incorporacion </td>
+                                    </tr>
+                            </table>
+                            <table class="border" style="width:100%">
+                                <tr>
+                                    <td rowspan="3" class="incorporacion"> Año 2022</td>
+                                    <td colspan="2" class="titulo">Codigo Resultado</td>
+                                    <td colspan="2" class="titulo">Fecha Captura</td>
+                                    <td colspan="2" class="titulo">Codigo Resultado</td>
+                                    <td colspan="2" class="titulo">Fecha Captura</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">@CrCris22</td>
+                                    <td colspan="2">@FechaCaptura22</td>
+                                    <td colspan="2">@CrIncor22</td>
+                                    <td colspan="2">@FechaCapturaInco22</td>
+                                </tr>
+                            </table>
+                            <table class="border" style="width:100%">
+                                <tr>
+                                    <td rowspan="3" class="incorporacion"> Año 2021</td>
+                                    <td colspan="2" class="titulo">Codigo Resultado</td>
+                                    <td colspan="2" class="titulo">Fecha Captura</td>
+                                    <td colspan="2" class="titulo">Codigo Resultado</td>
+                                    <td colspan="2" class="titulo">Fecha Captura</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">@CrCris21</td>
+                                    <td colspan="2">@FechaCaptura21</td>
+                                    <td colspan="2">@CrIncor21</td>
+                                    <td colspan="2">@FechaCapturaInco21</td>
+                                </tr>
+                            </table>
+                            <table class="border" style="width:100%">
+                                <tr>
+                                    <td rowspan="3" class="incorporacion"> Año 2020</td>
+                                    <td colspan="2" class="titulo">Codigo Resultado</td>
+                                    <td colspan="2" class="titulo">Fecha Captura</td>
+                                    <td colspan="2" class="titulo">Codigo Resultado</td>
+                                    <td colspan="2" class="titulo">Fecha Captura</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">@CrCris20</td>
+                                    <td colspan="2">@FechaCaptura20</td>
+                                    <td colspan="2">@CrIncor20</td>
+                                    <td colspan="2">@FechaCapturaInco20</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+    </table>
+     
+
+</body>
+
+</html>

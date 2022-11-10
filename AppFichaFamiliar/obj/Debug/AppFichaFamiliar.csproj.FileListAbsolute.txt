@@ -1,0 +1,14 @@
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\bin\Debug\AppFichaFamiliar.exe.config
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\bin\Debug\AppFichaFamiliar.exe
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\bin\Debug\AppFichaFamiliar.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\bin\Debug\MySql.Data.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\bin\Debug\MySql.Data.xml
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.csprojResolveAssemblyReference.cache
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.Properties.Resources.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.Vista.frmFichaFamiliar.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.Vista.frmMessageBox.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.Vista.frmPrincipal.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.csproj.GenerateResource.Cache
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.exe
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\FichaFamiliar\AppFichaFamiliar\obj\Debug\AppFichaFamiliar.pdb
