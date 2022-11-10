@@ -2759,6 +2759,21 @@ namespace AppFichaFamiliar.Vista
             paginaHtmlText = paginaHtmlText.Replace("@SeptOct19", txtSeptOct19.Text);
             paginaHtmlText = paginaHtmlText.Replace("@NovDic19", txtNovDic19.Text);
 
+            //Datos de Incorporacion  2022
+            paginaHtmlText = paginaHtmlText.Replace("@CrCris22", txtCrisCR2022.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@FechaCaptura22", txtCrisFecha2022.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@CrIncor22", txtIncCR2022.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@FechaCapturaInco22", txtIncFecha2022.Text);
+            //Datos de Incorporacion  2021
+            paginaHtmlText = paginaHtmlText.Replace("@CrCris21", txtCrisCodRes2021.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@FechaCaptura21", txtCrisFecha2021.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@CrIncor21", txtIncCodRes2021.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@FechaCapturaInco21", txtIncFecha2021.Text);
+            //Datos de Incorporacion  2020
+            paginaHtmlText = paginaHtmlText.Replace("@CrCris20", txtCrisCodRes2020.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@FechaCaptura20", txtCrisFecha2020.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@CrIncor20", txtIncCR2020.Text);
+            paginaHtmlText = paginaHtmlText.Replace("@FechaCapturaInco20", txtIncFecha2020.Text);
 
 
             if (guardar.ShowDialog() == DialogResult.OK)

@@ -366,7 +366,7 @@
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.16149F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65.83851F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 201F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 202F));
             this.tableLayoutPanel1.Controls.Add(this.btnBuscarFamiliaId, 2, 0);
             this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.txtIdFamilia, 1, 0);
@@ -399,7 +399,7 @@
             this.btnBuscarFamiliaId.IconVisible = true;
             this.btnBuscarFamiliaId.IconZoom = 70D;
             this.btnBuscarFamiliaId.IsTab = false;
-            this.btnBuscarFamiliaId.Location = new System.Drawing.Point(164, 4);
+            this.btnBuscarFamiliaId.Location = new System.Drawing.Point(163, 4);
             this.btnBuscarFamiliaId.Margin = new System.Windows.Forms.Padding(4);
             this.btnBuscarFamiliaId.Name = "btnBuscarFamiliaId";
             this.btnBuscarFamiliaId.Normalcolor = System.Drawing.Color.Transparent;
@@ -420,7 +420,7 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 39);
+            this.label1.Size = new System.Drawing.Size(48, 39);
             this.label1.TabIndex = 11;
             this.label1.Text = "Familia ID:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -439,7 +439,7 @@
             this.txtIdFamilia.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIdFamilia.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIdFamilia.LineThickness = 2;
-            this.txtIdFamilia.Location = new System.Drawing.Point(60, 5);
+            this.txtIdFamilia.Location = new System.Drawing.Point(59, 5);
             this.txtIdFamilia.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIdFamilia.Name = "txtIdFamilia";
             this.txtIdFamilia.Size = new System.Drawing.Size(95, 29);
@@ -727,7 +727,7 @@
             this.tblPnlDispersionesTutora.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 51.16919F));
             this.tblPnlDispersionesTutora.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 48.83081F));
             this.tblPnlDispersionesTutora.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 394F));
-            this.tblPnlDispersionesTutora.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 383F));
+            this.tblPnlDispersionesTutora.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 384F));
             this.tblPnlDispersionesTutora.Controls.Add(this.pnlDispersion2020, 0, 0);
             this.tblPnlDispersionesTutora.Controls.Add(this.pnlDispersion2019, 2, 0);
             this.tblPnlDispersionesTutora.Controls.Add(this.pnlDispersion2022, 0, 0);
@@ -746,7 +746,7 @@
             this.pnlDispersion2020.Controls.Add(this.subPnlIzqBodyBeca20);
             this.pnlDispersion2020.Controls.Add(this.pnlTitBeca2020);
             this.pnlDispersion2020.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnlDispersion2020.Location = new System.Drawing.Point(740, 3);
+            this.pnlDispersion2020.Location = new System.Drawing.Point(739, 3);
             this.pnlDispersion2020.Name = "pnlDispersion2020";
             this.pnlDispersion2020.Size = new System.Drawing.Size(388, 269);
             this.pnlDispersion2020.TabIndex = 37;
@@ -769,7 +769,7 @@
             this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 49.72376F));
             this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.27624F));
             this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 107F));
-            this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 108F));
+            this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 109F));
             this.tableLayoutPanel15.Controls.Add(this.label37, 0, 0);
             this.tableLayoutPanel15.Controls.Add(this.txtInc20, 1, 0);
             this.tableLayoutPanel15.Controls.Add(this.label36, 2, 0);
@@ -804,7 +804,7 @@
             this.label37.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label37.Location = new System.Drawing.Point(3, 0);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(80, 51);
+            this.label37.Size = new System.Drawing.Size(79, 51);
             this.label37.TabIndex = 39;
             this.label37.Text = "Beca Incorp.";
             this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -824,7 +824,7 @@
             this.txtInc20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtInc20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtInc20.LineThickness = 2;
-            this.txtInc20.Location = new System.Drawing.Point(91, 5);
+            this.txtInc20.Location = new System.Drawing.Point(90, 5);
             this.txtInc20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtInc20.Name = "txtInc20";
             this.txtInc20.Size = new System.Drawing.Size(76, 41);
@@ -836,7 +836,7 @@
             this.label36.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label36.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label36.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label36.Location = new System.Drawing.Point(175, 0);
+            this.label36.Location = new System.Drawing.Point(174, 0);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(101, 51);
             this.label36.TabIndex = 40;
@@ -858,10 +858,10 @@
             this.txtRez20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtRez20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtRez20.LineThickness = 2;
-            this.txtRez20.Location = new System.Drawing.Point(284, 5);
+            this.txtRez20.Location = new System.Drawing.Point(283, 5);
             this.txtRez20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtRez20.Name = "txtRez20";
-            this.txtRez20.Size = new System.Drawing.Size(99, 41);
+            this.txtRez20.Size = new System.Drawing.Size(100, 41);
             this.txtRez20.TabIndex = 24;
             this.txtRez20.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -880,10 +880,10 @@
             this.txtMarAbr20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtMarAbr20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtMarAbr20.LineThickness = 2;
-            this.txtMarAbr20.Location = new System.Drawing.Point(284, 56);
+            this.txtMarAbr20.Location = new System.Drawing.Point(283, 56);
             this.txtMarAbr20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMarAbr20.Name = "txtMarAbr20";
-            this.txtMarAbr20.Size = new System.Drawing.Size(99, 40);
+            this.txtMarAbr20.Size = new System.Drawing.Size(100, 40);
             this.txtMarAbr20.TabIndex = 45;
             this.txtMarAbr20.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -892,7 +892,7 @@
             this.label42.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label42.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label42.Location = new System.Drawing.Point(175, 51);
+            this.label42.Location = new System.Drawing.Point(174, 51);
             this.label42.Name = "label42";
             this.label42.Size = new System.Drawing.Size(101, 50);
             this.label42.TabIndex = 43;
@@ -914,7 +914,7 @@
             this.txtEneFeb20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtEneFeb20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtEneFeb20.LineThickness = 2;
-            this.txtEneFeb20.Location = new System.Drawing.Point(91, 56);
+            this.txtEneFeb20.Location = new System.Drawing.Point(90, 56);
             this.txtEneFeb20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtEneFeb20.Name = "txtEneFeb20";
             this.txtEneFeb20.Size = new System.Drawing.Size(76, 40);
@@ -928,7 +928,7 @@
             this.label34.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label34.Location = new System.Drawing.Point(3, 51);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(80, 50);
+            this.label34.Size = new System.Drawing.Size(79, 50);
             this.label34.TabIndex = 42;
             this.label34.Text = "Enero - Febrero";
             this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -940,7 +940,7 @@
             this.label35.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label35.Location = new System.Drawing.Point(3, 101);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(80, 51);
+            this.label35.Size = new System.Drawing.Size(79, 51);
             this.label35.TabIndex = 25;
             this.label35.Text = "Mayo - Junio";
             this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -960,7 +960,7 @@
             this.txtMayJun20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtMayJun20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtMayJun20.LineThickness = 2;
-            this.txtMayJun20.Location = new System.Drawing.Point(91, 106);
+            this.txtMayJun20.Location = new System.Drawing.Point(90, 106);
             this.txtMayJun20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMayJun20.Name = "txtMayJun20";
             this.txtMayJun20.Size = new System.Drawing.Size(76, 41);
@@ -972,7 +972,7 @@
             this.label40.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label40.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label40.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label40.Location = new System.Drawing.Point(175, 101);
+            this.label40.Location = new System.Drawing.Point(174, 101);
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(101, 51);
             this.label40.TabIndex = 30;
@@ -994,10 +994,10 @@
             this.txtJulAgost20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtJulAgost20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtJulAgost20.LineThickness = 2;
-            this.txtJulAgost20.Location = new System.Drawing.Point(284, 106);
+            this.txtJulAgost20.Location = new System.Drawing.Point(283, 106);
             this.txtJulAgost20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtJulAgost20.Name = "txtJulAgost20";
-            this.txtJulAgost20.Size = new System.Drawing.Size(99, 41);
+            this.txtJulAgost20.Size = new System.Drawing.Size(100, 41);
             this.txtJulAgost20.TabIndex = 32;
             this.txtJulAgost20.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1008,7 +1008,7 @@
             this.label39.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label39.Location = new System.Drawing.Point(3, 152);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(80, 54);
+            this.label39.Size = new System.Drawing.Size(79, 54);
             this.label39.TabIndex = 33;
             this.label39.Text = "Septiembre - Octubre";
             this.label39.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1028,7 +1028,7 @@
             this.txtSeptOct20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtSeptOct20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtSeptOct20.LineThickness = 2;
-            this.txtSeptOct20.Location = new System.Drawing.Point(91, 157);
+            this.txtSeptOct20.Location = new System.Drawing.Point(90, 157);
             this.txtSeptOct20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtSeptOct20.Name = "txtSeptOct20";
             this.txtSeptOct20.Size = new System.Drawing.Size(76, 44);
@@ -1040,7 +1040,7 @@
             this.label38.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label38.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label38.Location = new System.Drawing.Point(175, 152);
+            this.label38.Location = new System.Drawing.Point(174, 152);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(101, 54);
             this.label38.TabIndex = 34;
@@ -1062,10 +1062,10 @@
             this.txtNovDic20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtNovDic20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtNovDic20.LineThickness = 2;
-            this.txtNovDic20.Location = new System.Drawing.Point(284, 157);
+            this.txtNovDic20.Location = new System.Drawing.Point(283, 157);
             this.txtNovDic20.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtNovDic20.Name = "txtNovDic20";
-            this.txtNovDic20.Size = new System.Drawing.Size(99, 44);
+            this.txtNovDic20.Size = new System.Drawing.Size(100, 44);
             this.txtNovDic20.TabIndex = 36;
             this.txtNovDic20.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1150,9 +1150,9 @@
             this.pnlDispersion2019.Controls.Add(this.subPnlIzqBodyBeca19);
             this.pnlDispersion2019.Controls.Add(this.pnlTitBeca2019);
             this.pnlDispersion2019.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnlDispersion2019.Location = new System.Drawing.Point(1134, 3);
+            this.pnlDispersion2019.Location = new System.Drawing.Point(1133, 3);
             this.pnlDispersion2019.Name = "pnlDispersion2019";
-            this.pnlDispersion2019.Size = new System.Drawing.Size(378, 269);
+            this.pnlDispersion2019.Size = new System.Drawing.Size(379, 269);
             this.pnlDispersion2019.TabIndex = 36;
             // 
             // subPnlIzqBodyBeca19
@@ -1162,7 +1162,7 @@
             this.subPnlIzqBodyBeca19.Dock = System.Windows.Forms.DockStyle.Top;
             this.subPnlIzqBodyBeca19.Location = new System.Drawing.Point(0, 40);
             this.subPnlIzqBodyBeca19.Name = "subPnlIzqBodyBeca19";
-            this.subPnlIzqBodyBeca19.Size = new System.Drawing.Size(378, 210);
+            this.subPnlIzqBodyBeca19.Size = new System.Drawing.Size(379, 210);
             this.subPnlIzqBodyBeca19.TabIndex = 40;
             this.subPnlIzqBodyBeca19.Visible = false;
             // 
@@ -1173,7 +1173,7 @@
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 48.64865F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 51.35135F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 93F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 99F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 100F));
             this.tableLayoutPanel4.Controls.Add(this.txtNovDic19, 3, 3);
             this.tableLayoutPanel4.Controls.Add(this.txtSeptOct19, 1, 3);
             this.tableLayoutPanel4.Controls.Add(this.txtJulAgost19, 3, 2);
@@ -1198,7 +1198,7 @@
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 49.01961F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 51F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 53F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(378, 210);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(379, 210);
             this.tableLayoutPanel4.TabIndex = 2;
             // 
             // txtNovDic19
@@ -1219,7 +1219,7 @@
             this.txtNovDic19.Location = new System.Drawing.Point(283, 161);
             this.txtNovDic19.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtNovDic19.Name = "txtNovDic19";
-            this.txtNovDic19.Size = new System.Drawing.Size(90, 44);
+            this.txtNovDic19.Size = new System.Drawing.Size(91, 44);
             this.txtNovDic19.TabIndex = 40;
             this.txtNovDic19.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1263,7 +1263,7 @@
             this.txtJulAgost19.Location = new System.Drawing.Point(283, 110);
             this.txtJulAgost19.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtJulAgost19.Name = "txtJulAgost19";
-            this.txtJulAgost19.Size = new System.Drawing.Size(90, 41);
+            this.txtJulAgost19.Size = new System.Drawing.Size(91, 41);
             this.txtJulAgost19.TabIndex = 41;
             this.txtJulAgost19.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1425,7 +1425,7 @@
             this.txtRez19.Location = new System.Drawing.Point(283, 5);
             this.txtRez19.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtRez19.Name = "txtRez19";
-            this.txtRez19.Size = new System.Drawing.Size(90, 44);
+            this.txtRez19.Size = new System.Drawing.Size(91, 44);
             this.txtRez19.TabIndex = 45;
             this.txtRez19.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1469,7 +1469,7 @@
             this.txtMarAbr19.Location = new System.Drawing.Point(283, 59);
             this.txtMarAbr19.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMarAbr19.Name = "txtMarAbr19";
-            this.txtMarAbr19.Size = new System.Drawing.Size(90, 41);
+            this.txtMarAbr19.Size = new System.Drawing.Size(91, 41);
             this.txtMarAbr19.TabIndex = 47;
             this.txtMarAbr19.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1480,7 +1480,7 @@
             this.pnlTitBeca2019.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlTitBeca2019.Location = new System.Drawing.Point(0, 0);
             this.pnlTitBeca2019.Name = "pnlTitBeca2019";
-            this.pnlTitBeca2019.Size = new System.Drawing.Size(378, 40);
+            this.pnlTitBeca2019.Size = new System.Drawing.Size(379, 40);
             this.pnlTitBeca2019.TabIndex = 38;
             // 
             // tableLayoutPanel8
@@ -1496,7 +1496,7 @@
             this.tableLayoutPanel8.Name = "tableLayoutPanel8";
             this.tableLayoutPanel8.RowCount = 1;
             this.tableLayoutPanel8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel8.Size = new System.Drawing.Size(378, 40);
+            this.tableLayoutPanel8.Size = new System.Drawing.Size(379, 40);
             this.tableLayoutPanel8.TabIndex = 29;
             // 
             // label15
@@ -1507,7 +1507,7 @@
             this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label15.Location = new System.Drawing.Point(3, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(330, 40);
+            this.label15.Size = new System.Drawing.Size(331, 40);
             this.label15.TabIndex = 21;
             this.label15.Text = "Dispersion de Apoyo 2019:";
             this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1534,7 +1534,7 @@
             this.btnDetalleBeca2019.IconVisible = true;
             this.btnDetalleBeca2019.IconZoom = 70D;
             this.btnDetalleBeca2019.IsTab = false;
-            this.btnDetalleBeca2019.Location = new System.Drawing.Point(340, 4);
+            this.btnDetalleBeca2019.Location = new System.Drawing.Point(341, 4);
             this.btnDetalleBeca2019.Margin = new System.Windows.Forms.Padding(4);
             this.btnDetalleBeca2019.Name = "btnDetalleBeca2019";
             this.btnDetalleBeca2019.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
@@ -1577,7 +1577,7 @@
             this.tableLayoutPanel9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 47.61905F));
             this.tableLayoutPanel9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 52.38095F));
             this.tableLayoutPanel9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 93F));
-            this.tableLayoutPanel9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 92F));
+            this.tableLayoutPanel9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 93F));
             this.tableLayoutPanel9.Controls.Add(this.label20, 0, 0);
             this.tableLayoutPanel9.Controls.Add(this.label24, 2, 3);
             this.tableLayoutPanel9.Controls.Add(this.txtJulAgost22, 3, 2);
@@ -1622,7 +1622,7 @@
             this.label24.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label24.Location = new System.Drawing.Point(188, 152);
+            this.label24.Location = new System.Drawing.Point(187, 152);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(87, 53);
             this.label24.TabIndex = 34;
@@ -1644,10 +1644,10 @@
             this.txtJulAgost22.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtJulAgost22.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtJulAgost22.LineThickness = 2;
-            this.txtJulAgost22.Location = new System.Drawing.Point(283, 105);
+            this.txtJulAgost22.Location = new System.Drawing.Point(282, 105);
             this.txtJulAgost22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtJulAgost22.Name = "txtJulAgost22";
-            this.txtJulAgost22.Size = new System.Drawing.Size(83, 42);
+            this.txtJulAgost22.Size = new System.Drawing.Size(84, 42);
             this.txtJulAgost22.TabIndex = 32;
             this.txtJulAgost22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1669,7 +1669,7 @@
             this.txtNovDic22.Location = new System.Drawing.Point(93, 157);
             this.txtNovDic22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtNovDic22.Name = "txtNovDic22";
-            this.txtNovDic22.Size = new System.Drawing.Size(87, 43);
+            this.txtNovDic22.Size = new System.Drawing.Size(86, 43);
             this.txtNovDic22.TabIndex = 36;
             this.txtNovDic22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1678,7 +1678,7 @@
             this.label17.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label17.Location = new System.Drawing.Point(188, 100);
+            this.label17.Location = new System.Drawing.Point(187, 100);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(87, 52);
             this.label17.TabIndex = 30;
@@ -1703,7 +1703,7 @@
             this.txtMayJun22.Location = new System.Drawing.Point(93, 105);
             this.txtMayJun22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMayJun22.Name = "txtMayJun22";
-            this.txtMayJun22.Size = new System.Drawing.Size(87, 42);
+            this.txtMayJun22.Size = new System.Drawing.Size(86, 42);
             this.txtMayJun22.TabIndex = 31;
             this.txtMayJun22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1734,10 +1734,10 @@
             this.txtMarAbr22.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtMarAbr22.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtMarAbr22.LineThickness = 2;
-            this.txtMarAbr22.Location = new System.Drawing.Point(283, 55);
+            this.txtMarAbr22.Location = new System.Drawing.Point(282, 55);
             this.txtMarAbr22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMarAbr22.Name = "txtMarAbr22";
-            this.txtMarAbr22.Size = new System.Drawing.Size(83, 40);
+            this.txtMarAbr22.Size = new System.Drawing.Size(84, 40);
             this.txtMarAbr22.TabIndex = 45;
             this.txtMarAbr22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1746,7 +1746,7 @@
             this.label23.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label23.Location = new System.Drawing.Point(188, 50);
+            this.label23.Location = new System.Drawing.Point(187, 50);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(87, 50);
             this.label23.TabIndex = 43;
@@ -1771,7 +1771,7 @@
             this.txtInc22.Location = new System.Drawing.Point(93, 5);
             this.txtInc22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtInc22.Name = "txtInc22";
-            this.txtInc22.Size = new System.Drawing.Size(87, 40);
+            this.txtInc22.Size = new System.Drawing.Size(86, 40);
             this.txtInc22.TabIndex = 41;
             this.txtInc22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1780,7 +1780,7 @@
             this.label21.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label21.Location = new System.Drawing.Point(188, 0);
+            this.label21.Location = new System.Drawing.Point(187, 0);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(87, 50);
             this.label21.TabIndex = 40;
@@ -1802,10 +1802,10 @@
             this.txtRez22.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtRez22.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtRez22.LineThickness = 2;
-            this.txtRez22.Location = new System.Drawing.Point(283, 5);
+            this.txtRez22.Location = new System.Drawing.Point(282, 5);
             this.txtRez22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtRez22.Name = "txtRez22";
-            this.txtRez22.Size = new System.Drawing.Size(83, 40);
+            this.txtRez22.Size = new System.Drawing.Size(84, 40);
             this.txtRez22.TabIndex = 24;
             this.txtRez22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1839,7 +1839,7 @@
             this.txtEneFeb22.Location = new System.Drawing.Point(93, 55);
             this.txtEneFeb22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtEneFeb22.Name = "txtEneFeb22";
-            this.txtEneFeb22.Size = new System.Drawing.Size(87, 40);
+            this.txtEneFeb22.Size = new System.Drawing.Size(86, 40);
             this.txtEneFeb22.TabIndex = 44;
             this.txtEneFeb22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1858,10 +1858,10 @@
             this.txtSeptOct22.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtSeptOct22.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtSeptOct22.LineThickness = 2;
-            this.txtSeptOct22.Location = new System.Drawing.Point(283, 157);
+            this.txtSeptOct22.Location = new System.Drawing.Point(282, 157);
             this.txtSeptOct22.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtSeptOct22.Name = "txtSeptOct22";
-            this.txtSeptOct22.Size = new System.Drawing.Size(83, 43);
+            this.txtSeptOct22.Size = new System.Drawing.Size(84, 43);
             this.txtSeptOct22.TabIndex = 35;
             this.txtSeptOct22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -1960,7 +1960,7 @@
             this.pnlDispersion2021.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlDispersion2021.Location = new System.Drawing.Point(380, 3);
             this.pnlDispersion2021.Name = "pnlDispersion2021";
-            this.pnlDispersion2021.Size = new System.Drawing.Size(354, 269);
+            this.pnlDispersion2021.Size = new System.Drawing.Size(353, 269);
             this.pnlDispersion2021.TabIndex = 0;
             // 
             // subPnlIzqBodyBeca21
@@ -1970,7 +1970,7 @@
             this.subPnlIzqBodyBeca21.Dock = System.Windows.Forms.DockStyle.Top;
             this.subPnlIzqBodyBeca21.Location = new System.Drawing.Point(0, 40);
             this.subPnlIzqBodyBeca21.Name = "subPnlIzqBodyBeca21";
-            this.subPnlIzqBodyBeca21.Size = new System.Drawing.Size(354, 205);
+            this.subPnlIzqBodyBeca21.Size = new System.Drawing.Size(353, 205);
             this.subPnlIzqBodyBeca21.TabIndex = 2;
             this.subPnlIzqBodyBeca21.Visible = false;
             // 
@@ -1982,7 +1982,7 @@
             this.tableLayoutPanel12.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 53.25444F));
             this.tableLayoutPanel12.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 46.74556F));
             this.tableLayoutPanel12.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 96F));
-            this.tableLayoutPanel12.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 93F));
+            this.tableLayoutPanel12.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 94F));
             this.tableLayoutPanel12.Controls.Add(this.label26, 0, 0);
             this.tableLayoutPanel12.Controls.Add(this.txtInc21, 1, 0);
             this.tableLayoutPanel12.Controls.Add(this.label30, 2, 1);
@@ -2007,7 +2007,7 @@
             this.tableLayoutPanel12.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 49.51456F));
             this.tableLayoutPanel12.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 50F));
             this.tableLayoutPanel12.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 52F));
-            this.tableLayoutPanel12.Size = new System.Drawing.Size(354, 205);
+            this.tableLayoutPanel12.Size = new System.Drawing.Size(353, 205);
             this.tableLayoutPanel12.TabIndex = 1;
             // 
             // label26
@@ -2017,7 +2017,7 @@
             this.label26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label26.Location = new System.Drawing.Point(3, 0);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(81, 52);
+            this.label26.Size = new System.Drawing.Size(80, 52);
             this.label26.TabIndex = 39;
             this.label26.Text = "Beca Incorp.";
             this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2037,10 +2037,10 @@
             this.txtInc21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtInc21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtInc21.LineThickness = 2;
-            this.txtInc21.Location = new System.Drawing.Point(92, 5);
+            this.txtInc21.Location = new System.Drawing.Point(91, 5);
             this.txtInc21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtInc21.Name = "txtInc21";
-            this.txtInc21.Size = new System.Drawing.Size(67, 42);
+            this.txtInc21.Size = new System.Drawing.Size(66, 42);
             this.txtInc21.TabIndex = 41;
             this.txtInc21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2049,7 +2049,7 @@
             this.label30.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label30.Location = new System.Drawing.Point(167, 52);
+            this.label30.Location = new System.Drawing.Point(165, 52);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(90, 50);
             this.label30.TabIndex = 43;
@@ -2071,10 +2071,10 @@
             this.txtMarAbr21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtMarAbr21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtMarAbr21.LineThickness = 2;
-            this.txtMarAbr21.Location = new System.Drawing.Point(265, 57);
+            this.txtMarAbr21.Location = new System.Drawing.Point(263, 57);
             this.txtMarAbr21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMarAbr21.Name = "txtMarAbr21";
-            this.txtMarAbr21.Size = new System.Drawing.Size(84, 40);
+            this.txtMarAbr21.Size = new System.Drawing.Size(85, 40);
             this.txtMarAbr21.TabIndex = 45;
             this.txtMarAbr21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2093,10 +2093,10 @@
             this.txtRez21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtRez21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtRez21.LineThickness = 2;
-            this.txtRez21.Location = new System.Drawing.Point(265, 5);
+            this.txtRez21.Location = new System.Drawing.Point(263, 5);
             this.txtRez21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtRez21.Name = "txtRez21";
-            this.txtRez21.Size = new System.Drawing.Size(84, 42);
+            this.txtRez21.Size = new System.Drawing.Size(85, 42);
             this.txtRez21.TabIndex = 24;
             this.txtRez21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2107,7 +2107,7 @@
             this.label27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label27.Location = new System.Drawing.Point(3, 52);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(81, 50);
+            this.label27.Size = new System.Drawing.Size(80, 50);
             this.label27.TabIndex = 42;
             this.label27.Text = "Enero - Febrero";
             this.label27.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2127,10 +2127,10 @@
             this.txtEneFeb21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtEneFeb21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtEneFeb21.LineThickness = 2;
-            this.txtEneFeb21.Location = new System.Drawing.Point(92, 57);
+            this.txtEneFeb21.Location = new System.Drawing.Point(91, 57);
             this.txtEneFeb21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtEneFeb21.Name = "txtEneFeb21";
-            this.txtEneFeb21.Size = new System.Drawing.Size(67, 40);
+            this.txtEneFeb21.Size = new System.Drawing.Size(66, 40);
             this.txtEneFeb21.TabIndex = 44;
             this.txtEneFeb21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2141,7 +2141,7 @@
             this.label28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label28.Location = new System.Drawing.Point(3, 102);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(81, 50);
+            this.label28.Size = new System.Drawing.Size(80, 50);
             this.label28.TabIndex = 25;
             this.label28.Text = "Mayo - Junio";
             this.label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2161,10 +2161,10 @@
             this.txtMayJun21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtMayJun21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtMayJun21.LineThickness = 2;
-            this.txtMayJun21.Location = new System.Drawing.Point(92, 107);
+            this.txtMayJun21.Location = new System.Drawing.Point(91, 107);
             this.txtMayJun21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtMayJun21.Name = "txtMayJun21";
-            this.txtMayJun21.Size = new System.Drawing.Size(67, 40);
+            this.txtMayJun21.Size = new System.Drawing.Size(66, 40);
             this.txtMayJun21.TabIndex = 31;
             this.txtMayJun21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2173,7 +2173,7 @@
             this.label29.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label29.Location = new System.Drawing.Point(167, 102);
+            this.label29.Location = new System.Drawing.Point(165, 102);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(90, 50);
             this.label29.TabIndex = 30;
@@ -2195,10 +2195,10 @@
             this.txtJulAgost21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtJulAgost21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtJulAgost21.LineThickness = 2;
-            this.txtJulAgost21.Location = new System.Drawing.Point(265, 107);
+            this.txtJulAgost21.Location = new System.Drawing.Point(263, 107);
             this.txtJulAgost21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtJulAgost21.Name = "txtJulAgost21";
-            this.txtJulAgost21.Size = new System.Drawing.Size(84, 40);
+            this.txtJulAgost21.Size = new System.Drawing.Size(85, 40);
             this.txtJulAgost21.TabIndex = 32;
             this.txtJulAgost21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2209,7 +2209,7 @@
             this.label31.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label31.Location = new System.Drawing.Point(3, 152);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(81, 53);
+            this.label31.Size = new System.Drawing.Size(80, 53);
             this.label31.TabIndex = 33;
             this.label31.Text = "Septiembre - Octubre";
             this.label31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2229,10 +2229,10 @@
             this.txtSeptOct21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtSeptOct21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtSeptOct21.LineThickness = 2;
-            this.txtSeptOct21.Location = new System.Drawing.Point(92, 157);
+            this.txtSeptOct21.Location = new System.Drawing.Point(91, 157);
             this.txtSeptOct21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtSeptOct21.Name = "txtSeptOct21";
-            this.txtSeptOct21.Size = new System.Drawing.Size(67, 43);
+            this.txtSeptOct21.Size = new System.Drawing.Size(66, 43);
             this.txtSeptOct21.TabIndex = 35;
             this.txtSeptOct21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2241,7 +2241,7 @@
             this.label32.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label32.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label32.Location = new System.Drawing.Point(167, 152);
+            this.label32.Location = new System.Drawing.Point(165, 152);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(90, 53);
             this.label32.TabIndex = 34;
@@ -2263,10 +2263,10 @@
             this.txtNovDic21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtNovDic21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtNovDic21.LineThickness = 2;
-            this.txtNovDic21.Location = new System.Drawing.Point(265, 157);
+            this.txtNovDic21.Location = new System.Drawing.Point(263, 157);
             this.txtNovDic21.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtNovDic21.Name = "txtNovDic21";
-            this.txtNovDic21.Size = new System.Drawing.Size(84, 43);
+            this.txtNovDic21.Size = new System.Drawing.Size(85, 43);
             this.txtNovDic21.TabIndex = 36;
             this.txtNovDic21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
@@ -2275,7 +2275,7 @@
             this.label25.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label25.Location = new System.Drawing.Point(167, 0);
+            this.label25.Location = new System.Drawing.Point(165, 0);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(90, 52);
             this.label25.TabIndex = 40;
@@ -2289,7 +2289,7 @@
             this.pnlTitBeca2021.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlTitBeca2021.Location = new System.Drawing.Point(0, 0);
             this.pnlTitBeca2021.Name = "pnlTitBeca2021";
-            this.pnlTitBeca2021.Size = new System.Drawing.Size(354, 40);
+            this.pnlTitBeca2021.Size = new System.Drawing.Size(353, 40);
             this.pnlTitBeca2021.TabIndex = 0;
             // 
             // tableLayoutPanel21
@@ -2305,7 +2305,7 @@
             this.tableLayoutPanel21.Name = "tableLayoutPanel21";
             this.tableLayoutPanel21.RowCount = 1;
             this.tableLayoutPanel21.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel21.Size = new System.Drawing.Size(354, 40);
+            this.tableLayoutPanel21.Size = new System.Drawing.Size(353, 40);
             this.tableLayoutPanel21.TabIndex = 28;
             // 
             // label76
@@ -2316,7 +2316,7 @@
             this.label76.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label76.Location = new System.Drawing.Point(3, 0);
             this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(305, 40);
+            this.label76.Size = new System.Drawing.Size(304, 40);
             this.label76.TabIndex = 21;
             this.label76.Text = "Dispersion de Apoyo 2021:";
             this.label76.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2343,7 +2343,7 @@
             this.btnDetalleBeca2021.IconVisible = true;
             this.btnDetalleBeca2021.IconZoom = 70D;
             this.btnDetalleBeca2021.IsTab = false;
-            this.btnDetalleBeca2021.Location = new System.Drawing.Point(320, 4);
+            this.btnDetalleBeca2021.Location = new System.Drawing.Point(319, 4);
             this.btnDetalleBeca2021.Margin = new System.Windows.Forms.Padding(4);
             this.btnDetalleBeca2021.Name = "btnDetalleBeca2021";
             this.btnDetalleBeca2021.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
@@ -2372,7 +2372,7 @@
             this.tblSubPnlCuerpo.ColumnCount = 3;
             this.tblSubPnlCuerpo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 52.63681F));
             this.tblSubPnlCuerpo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 47.36319F));
-            this.tblSubPnlCuerpo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 556F));
+            this.tblSubPnlCuerpo.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 557F));
             this.tblSubPnlCuerpo.Controls.Add(this.pnlTblSubPnlCuerpoder, 2, 0);
             this.tblSubPnlCuerpo.Controls.Add(this.pnlTblSubPnlCuerpoCenter, 0, 0);
             this.tblSubPnlCuerpo.Controls.Add(this.pnlTblSubPnlCuerpoIzq, 0, 0);
@@ -2391,7 +2391,7 @@
             this.pnlTblSubPnlCuerpoder.Controls.Add(this.subPnlContentIncorporaciones);
             this.pnlTblSubPnlCuerpoder.Controls.Add(this.subPnlIzqIncorporaciones);
             this.pnlTblSubPnlCuerpoder.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pnlTblSubPnlCuerpoder.Location = new System.Drawing.Point(978, 3);
+            this.pnlTblSubPnlCuerpoder.Location = new System.Drawing.Point(977, 3);
             this.pnlTblSubPnlCuerpoder.Name = "pnlTblSubPnlCuerpoder";
             this.pnlTblSubPnlCuerpoder.Size = new System.Drawing.Size(501, 388);
             this.pnlTblSubPnlCuerpoder.TabIndex = 36;
@@ -2427,7 +2427,7 @@
             this.tblPnlIncorporacion2020.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 38.46154F));
             this.tblPnlIncorporacion2020.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 61.53846F));
             this.tblPnlIncorporacion2020.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 81F));
-            this.tblPnlIncorporacion2020.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 216F));
+            this.tblPnlIncorporacion2020.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 217F));
             this.tblPnlIncorporacion2020.Controls.Add(this.label83, 0, 2);
             this.tblPnlIncorporacion2020.Controls.Add(this.label84, 0, 1);
             this.tblPnlIncorporacion2020.Controls.Add(this.label85, 1, 0);
@@ -2480,7 +2480,7 @@
             this.label85.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label85.Location = new System.Drawing.Point(74, 0);
             this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(109, 29);
+            this.label85.Size = new System.Drawing.Size(108, 29);
             this.label85.TabIndex = 26;
             this.label85.Text = "CRIS:";
             this.label85.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2490,7 +2490,7 @@
             this.label86.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label86.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label86.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label86.Location = new System.Drawing.Point(189, 29);
+            this.label86.Location = new System.Drawing.Point(188, 29);
             this.label86.Name = "label86";
             this.label86.Size = new System.Drawing.Size(75, 48);
             this.label86.TabIndex = 29;
@@ -2502,7 +2502,7 @@
             this.label87.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label87.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label87.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label87.Location = new System.Drawing.Point(189, 77);
+            this.label87.Location = new System.Drawing.Point(188, 77);
             this.label87.Name = "label87";
             this.label87.Size = new System.Drawing.Size(75, 46);
             this.label87.TabIndex = 31;
@@ -2527,7 +2527,7 @@
             this.txtCrisCodRes2020.Location = new System.Drawing.Point(76, 34);
             this.txtCrisCodRes2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCrisCodRes2020.Name = "txtCrisCodRes2020";
-            this.txtCrisCodRes2020.Size = new System.Drawing.Size(105, 38);
+            this.txtCrisCodRes2020.Size = new System.Drawing.Size(104, 38);
             this.txtCrisCodRes2020.TabIndex = 63;
             this.txtCrisCodRes2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2546,10 +2546,10 @@
             this.txtIncCR2020.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIncCR2020.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIncCR2020.LineThickness = 2;
-            this.txtIncCR2020.Location = new System.Drawing.Point(272, 34);
+            this.txtIncCR2020.Location = new System.Drawing.Point(271, 34);
             this.txtIncCR2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIncCR2020.Name = "txtIncCR2020";
-            this.txtIncCR2020.Size = new System.Drawing.Size(207, 38);
+            this.txtIncCR2020.Size = new System.Drawing.Size(208, 38);
             this.txtIncCR2020.TabIndex = 62;
             this.txtIncCR2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2568,10 +2568,10 @@
             this.txtIncFecha2020.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIncFecha2020.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIncFecha2020.LineThickness = 2;
-            this.txtIncFecha2020.Location = new System.Drawing.Point(272, 82);
+            this.txtIncFecha2020.Location = new System.Drawing.Point(271, 82);
             this.txtIncFecha2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIncFecha2020.Name = "txtIncFecha2020";
-            this.txtIncFecha2020.Size = new System.Drawing.Size(207, 36);
+            this.txtIncFecha2020.Size = new System.Drawing.Size(208, 36);
             this.txtIncFecha2020.TabIndex = 64;
             this.txtIncFecha2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2580,9 +2580,9 @@
             this.label88.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label88.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label88.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label88.Location = new System.Drawing.Point(270, 0);
+            this.label88.Location = new System.Drawing.Point(269, 0);
             this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(211, 29);
+            this.label88.Size = new System.Drawing.Size(212, 29);
             this.label88.TabIndex = 28;
             this.label88.Text = "Notificacion:";
             this.label88.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2605,7 +2605,7 @@
             this.txtCrisFecha2020.Location = new System.Drawing.Point(76, 82);
             this.txtCrisFecha2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCrisFecha2020.Name = "txtCrisFecha2020";
-            this.txtCrisFecha2020.Size = new System.Drawing.Size(105, 36);
+            this.txtCrisFecha2020.Size = new System.Drawing.Size(104, 36);
             this.txtCrisFecha2020.TabIndex = 65;
             this.txtCrisFecha2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2700,7 +2700,7 @@
             this.tblPnlIncorporacion2021.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 39.89899F));
             this.tblPnlIncorporacion2021.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60.10101F));
             this.tblPnlIncorporacion2021.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 78F));
-            this.tblPnlIncorporacion2021.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 216F));
+            this.tblPnlIncorporacion2021.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 217F));
             this.tblPnlIncorporacion2021.Controls.Add(this.label59, 0, 2);
             this.tblPnlIncorporacion2021.Controls.Add(this.label60, 0, 1);
             this.tblPnlIncorporacion2021.Controls.Add(this.label61, 1, 0);
@@ -2753,7 +2753,7 @@
             this.label61.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label61.Location = new System.Drawing.Point(78, 0);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(108, 29);
+            this.label61.Size = new System.Drawing.Size(107, 29);
             this.label61.TabIndex = 26;
             this.label61.Text = "CRIS:";
             this.label61.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2763,7 +2763,7 @@
             this.label62.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label62.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label62.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label62.Location = new System.Drawing.Point(192, 29);
+            this.label62.Location = new System.Drawing.Point(191, 29);
             this.label62.Name = "label62";
             this.label62.Size = new System.Drawing.Size(72, 48);
             this.label62.TabIndex = 29;
@@ -2775,7 +2775,7 @@
             this.label63.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label63.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label63.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label63.Location = new System.Drawing.Point(192, 77);
+            this.label63.Location = new System.Drawing.Point(191, 77);
             this.label63.Name = "label63";
             this.label63.Size = new System.Drawing.Size(72, 46);
             this.label63.TabIndex = 31;
@@ -2800,7 +2800,7 @@
             this.txtCrisCodRes2021.Location = new System.Drawing.Point(80, 34);
             this.txtCrisCodRes2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCrisCodRes2021.Name = "txtCrisCodRes2021";
-            this.txtCrisCodRes2021.Size = new System.Drawing.Size(104, 38);
+            this.txtCrisCodRes2021.Size = new System.Drawing.Size(103, 38);
             this.txtCrisCodRes2021.TabIndex = 63;
             this.txtCrisCodRes2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2819,10 +2819,10 @@
             this.txtIncCodRes2021.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIncCodRes2021.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIncCodRes2021.LineThickness = 2;
-            this.txtIncCodRes2021.Location = new System.Drawing.Point(272, 34);
+            this.txtIncCodRes2021.Location = new System.Drawing.Point(271, 34);
             this.txtIncCodRes2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIncCodRes2021.Name = "txtIncCodRes2021";
-            this.txtIncCodRes2021.Size = new System.Drawing.Size(207, 38);
+            this.txtIncCodRes2021.Size = new System.Drawing.Size(208, 38);
             this.txtIncCodRes2021.TabIndex = 62;
             this.txtIncCodRes2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2841,10 +2841,10 @@
             this.txtIncFecha2021.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIncFecha2021.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIncFecha2021.LineThickness = 2;
-            this.txtIncFecha2021.Location = new System.Drawing.Point(272, 82);
+            this.txtIncFecha2021.Location = new System.Drawing.Point(271, 82);
             this.txtIncFecha2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIncFecha2021.Name = "txtIncFecha2021";
-            this.txtIncFecha2021.Size = new System.Drawing.Size(207, 36);
+            this.txtIncFecha2021.Size = new System.Drawing.Size(208, 36);
             this.txtIncFecha2021.TabIndex = 64;
             this.txtIncFecha2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2853,9 +2853,9 @@
             this.label64.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label64.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label64.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label64.Location = new System.Drawing.Point(270, 0);
+            this.label64.Location = new System.Drawing.Point(269, 0);
             this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(211, 29);
+            this.label64.Size = new System.Drawing.Size(212, 29);
             this.label64.TabIndex = 28;
             this.label64.Text = "Notificacion:";
             this.label64.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2878,7 +2878,7 @@
             this.txtCrisFecha2021.Location = new System.Drawing.Point(80, 82);
             this.txtCrisFecha2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCrisFecha2021.Name = "txtCrisFecha2021";
-            this.txtCrisFecha2021.Size = new System.Drawing.Size(104, 36);
+            this.txtCrisFecha2021.Size = new System.Drawing.Size(103, 36);
             this.txtCrisFecha2021.TabIndex = 65;
             this.txtCrisFecha2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -2973,7 +2973,7 @@
             this.tblPnlIncorporacion2022.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 38.64542F));
             this.tblPnlIncorporacion2022.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 61.35458F));
             this.tblPnlIncorporacion2022.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 74F));
-            this.tblPnlIncorporacion2022.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 216F));
+            this.tblPnlIncorporacion2022.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 217F));
             this.tblPnlIncorporacion2022.Controls.Add(this.label56, 0, 2);
             this.tblPnlIncorporacion2022.Controls.Add(this.label53, 0, 1);
             this.tblPnlIncorporacion2022.Controls.Add(this.label10, 1, 0);
@@ -3026,7 +3026,7 @@
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label10.Location = new System.Drawing.Point(77, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(113, 26);
+            this.label10.Size = new System.Drawing.Size(112, 26);
             this.label10.TabIndex = 26;
             this.label10.Text = "CRIS:";
             this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3036,7 +3036,7 @@
             this.label55.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label55.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label55.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label55.Location = new System.Drawing.Point(196, 26);
+            this.label55.Location = new System.Drawing.Point(195, 26);
             this.label55.Name = "label55";
             this.label55.Size = new System.Drawing.Size(68, 51);
             this.label55.TabIndex = 29;
@@ -3048,7 +3048,7 @@
             this.label57.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label57.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label57.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label57.Location = new System.Drawing.Point(196, 77);
+            this.label57.Location = new System.Drawing.Point(195, 77);
             this.label57.Name = "label57";
             this.label57.Size = new System.Drawing.Size(68, 46);
             this.label57.TabIndex = 31;
@@ -3073,7 +3073,7 @@
             this.txtCrisCR2022.Location = new System.Drawing.Point(79, 31);
             this.txtCrisCR2022.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCrisCR2022.Name = "txtCrisCR2022";
-            this.txtCrisCR2022.Size = new System.Drawing.Size(109, 41);
+            this.txtCrisCR2022.Size = new System.Drawing.Size(108, 41);
             this.txtCrisCR2022.TabIndex = 63;
             this.txtCrisCR2022.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3092,10 +3092,10 @@
             this.txtIncCR2022.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIncCR2022.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIncCR2022.LineThickness = 2;
-            this.txtIncCR2022.Location = new System.Drawing.Point(272, 31);
+            this.txtIncCR2022.Location = new System.Drawing.Point(271, 31);
             this.txtIncCR2022.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIncCR2022.Name = "txtIncCR2022";
-            this.txtIncCR2022.Size = new System.Drawing.Size(207, 41);
+            this.txtIncCR2022.Size = new System.Drawing.Size(208, 41);
             this.txtIncCR2022.TabIndex = 62;
             this.txtIncCR2022.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3114,10 +3114,10 @@
             this.txtIncFecha2022.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIncFecha2022.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIncFecha2022.LineThickness = 2;
-            this.txtIncFecha2022.Location = new System.Drawing.Point(272, 82);
+            this.txtIncFecha2022.Location = new System.Drawing.Point(271, 82);
             this.txtIncFecha2022.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIncFecha2022.Name = "txtIncFecha2022";
-            this.txtIncFecha2022.Size = new System.Drawing.Size(207, 36);
+            this.txtIncFecha2022.Size = new System.Drawing.Size(208, 36);
             this.txtIncFecha2022.TabIndex = 64;
             this.txtIncFecha2022.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3126,9 +3126,9 @@
             this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F);
             this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label11.Location = new System.Drawing.Point(270, 0);
+            this.label11.Location = new System.Drawing.Point(269, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(211, 26);
+            this.label11.Size = new System.Drawing.Size(212, 26);
             this.label11.TabIndex = 28;
             this.label11.Text = "Notificacion:";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3151,7 +3151,7 @@
             this.txtCrisFecha2022.Location = new System.Drawing.Point(79, 82);
             this.txtCrisFecha2022.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCrisFecha2022.Name = "txtCrisFecha2022";
-            this.txtCrisFecha2022.Size = new System.Drawing.Size(109, 36);
+            this.txtCrisFecha2022.Size = new System.Drawing.Size(108, 36);
             this.txtCrisFecha2022.TabIndex = 65;
             this.txtCrisFecha2022.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3313,7 +3313,7 @@
             this.pnlTblSubPnlCuerpoCenter.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlTblSubPnlCuerpoCenter.Location = new System.Drawing.Point(516, 3);
             this.pnlTblSubPnlCuerpoCenter.Name = "pnlTblSubPnlCuerpoCenter";
-            this.pnlTblSubPnlCuerpoCenter.Size = new System.Drawing.Size(456, 388);
+            this.pnlTblSubPnlCuerpoCenter.Size = new System.Drawing.Size(455, 388);
             this.pnlTblSubPnlCuerpoCenter.TabIndex = 1;
             // 
             // subPnlIzqBodyTitular2
@@ -3323,7 +3323,7 @@
             this.subPnlIzqBodyTitular2.Dock = System.Windows.Forms.DockStyle.Top;
             this.subPnlIzqBodyTitular2.Location = new System.Drawing.Point(0, 200);
             this.subPnlIzqBodyTitular2.Name = "subPnlIzqBodyTitular2";
-            this.subPnlIzqBodyTitular2.Size = new System.Drawing.Size(456, 163);
+            this.subPnlIzqBodyTitular2.Size = new System.Drawing.Size(455, 163);
             this.subPnlIzqBodyTitular2.TabIndex = 35;
             this.subPnlIzqBodyTitular2.Visible = false;
             // 
@@ -3342,7 +3342,7 @@
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 105F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 105F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 105F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(456, 105);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(455, 105);
             this.tableLayoutPanel3.TabIndex = 3;
             // 
             // label54
@@ -3375,7 +3375,7 @@
             this.txtCausalBajaTutora.Location = new System.Drawing.Point(107, 5);
             this.txtCausalBajaTutora.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtCausalBajaTutora.Name = "txtCausalBajaTutora";
-            this.txtCausalBajaTutora.Size = new System.Drawing.Size(344, 95);
+            this.txtCausalBajaTutora.Size = new System.Drawing.Size(343, 95);
             this.txtCausalBajaTutora.TabIndex = 39;
             this.txtCausalBajaTutora.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3385,7 +3385,7 @@
             this.tblSubPnlIzqDataTitular2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 46.3964F));
             this.tblSubPnlIzqDataTitular2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 53.6036F));
             this.tblSubPnlIzqDataTitular2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 73F));
-            this.tblSubPnlIzqDataTitular2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 153F));
+            this.tblSubPnlIzqDataTitular2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 154F));
             this.tblSubPnlIzqDataTitular2.Controls.Add(this.label8, 2, 0);
             this.tblSubPnlIzqDataTitular2.Controls.Add(this.txtBimBajaTutora, 3, 0);
             this.tblSubPnlIzqDataTitular2.Controls.Add(this.label52, 0, 0);
@@ -3395,7 +3395,7 @@
             this.tblSubPnlIzqDataTitular2.Name = "tblSubPnlIzqDataTitular2";
             this.tblSubPnlIzqDataTitular2.RowCount = 1;
             this.tblSubPnlIzqDataTitular2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblSubPnlIzqDataTitular2.Size = new System.Drawing.Size(456, 55);
+            this.tblSubPnlIzqDataTitular2.Size = new System.Drawing.Size(455, 55);
             this.tblSubPnlIzqDataTitular2.TabIndex = 2;
             // 
             // label8
@@ -3403,7 +3403,7 @@
             this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label8.Location = new System.Drawing.Point(232, 0);
+            this.label8.Location = new System.Drawing.Point(230, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(67, 55);
             this.label8.TabIndex = 24;
@@ -3425,10 +3425,10 @@
             this.txtBimBajaTutora.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtBimBajaTutora.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtBimBajaTutora.LineThickness = 2;
-            this.txtBimBajaTutora.Location = new System.Drawing.Point(307, 5);
+            this.txtBimBajaTutora.Location = new System.Drawing.Point(305, 5);
             this.txtBimBajaTutora.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtBimBajaTutora.Name = "txtBimBajaTutora";
-            this.txtBimBajaTutora.Size = new System.Drawing.Size(144, 45);
+            this.txtBimBajaTutora.Size = new System.Drawing.Size(145, 45);
             this.txtBimBajaTutora.TabIndex = 37;
             this.txtBimBajaTutora.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3439,7 +3439,7 @@
             this.label52.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label52.Location = new System.Drawing.Point(3, 0);
             this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(100, 55);
+            this.label52.Size = new System.Drawing.Size(99, 55);
             this.label52.TabIndex = 23;
             this.label52.Text = "Año Baja:";
             this.label52.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3459,10 +3459,10 @@
             this.txtAnioBajaTutora.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtAnioBajaTutora.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtAnioBajaTutora.LineThickness = 2;
-            this.txtAnioBajaTutora.Location = new System.Drawing.Point(111, 5);
+            this.txtAnioBajaTutora.Location = new System.Drawing.Point(110, 5);
             this.txtAnioBajaTutora.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtAnioBajaTutora.Name = "txtAnioBajaTutora";
-            this.txtAnioBajaTutora.Size = new System.Drawing.Size(113, 45);
+            this.txtAnioBajaTutora.Size = new System.Drawing.Size(112, 45);
             this.txtAnioBajaTutora.TabIndex = 34;
             this.txtAnioBajaTutora.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3472,7 +3472,7 @@
             this.subPnlIzqBodyTitular1.Dock = System.Windows.Forms.DockStyle.Top;
             this.subPnlIzqBodyTitular1.Location = new System.Drawing.Point(0, 40);
             this.subPnlIzqBodyTitular1.Name = "subPnlIzqBodyTitular1";
-            this.subPnlIzqBodyTitular1.Size = new System.Drawing.Size(456, 160);
+            this.subPnlIzqBodyTitular1.Size = new System.Drawing.Size(455, 160);
             this.subPnlIzqBodyTitular1.TabIndex = 34;
             // 
             // tblSubPnlIzqDataTitular1
@@ -3497,7 +3497,7 @@
             this.tblSubPnlIzqDataTitular1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 38F));
             this.tblSubPnlIzqDataTitular1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 38F));
             this.tblSubPnlIzqDataTitular1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tblSubPnlIzqDataTitular1.Size = new System.Drawing.Size(456, 155);
+            this.tblSubPnlIzqDataTitular1.Size = new System.Drawing.Size(455, 155);
             this.tblSubPnlIzqDataTitular1.TabIndex = 28;
             // 
             // txtdataCurpTutora
@@ -3518,7 +3518,7 @@
             this.txtdataCurpTutora.Location = new System.Drawing.Point(100, 45);
             this.txtdataCurpTutora.Margin = new System.Windows.Forms.Padding(4);
             this.txtdataCurpTutora.Name = "txtdataCurpTutora";
-            this.txtdataCurpTutora.Size = new System.Drawing.Size(352, 29);
+            this.txtdataCurpTutora.Size = new System.Drawing.Size(351, 29);
             this.txtdataCurpTutora.TabIndex = 27;
             this.txtdataCurpTutora.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3564,7 +3564,7 @@
             this.txtIdTutora.Location = new System.Drawing.Point(100, 82);
             this.txtIdTutora.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdTutora.Name = "txtIdTutora";
-            this.txtIdTutora.Size = new System.Drawing.Size(352, 30);
+            this.txtIdTutora.Size = new System.Drawing.Size(351, 30);
             this.txtIdTutora.TabIndex = 21;
             this.txtIdTutora.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3598,7 +3598,7 @@
             this.txtNombreCompleto.Location = new System.Drawing.Point(100, 4);
             this.txtNombreCompleto.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombreCompleto.Name = "txtNombreCompleto";
-            this.txtNombreCompleto.Size = new System.Drawing.Size(352, 33);
+            this.txtNombreCompleto.Size = new System.Drawing.Size(351, 33);
             this.txtNombreCompleto.TabIndex = 22;
             this.txtNombreCompleto.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3632,7 +3632,7 @@
             this.txtEstatus.Location = new System.Drawing.Point(100, 120);
             this.txtEstatus.Margin = new System.Windows.Forms.Padding(4);
             this.txtEstatus.Name = "txtEstatus";
-            this.txtEstatus.Size = new System.Drawing.Size(352, 31);
+            this.txtEstatus.Size = new System.Drawing.Size(351, 31);
             this.txtEstatus.TabIndex = 23;
             this.txtEstatus.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3643,7 +3643,7 @@
             this.subPnlIzqTitTitular.Dock = System.Windows.Forms.DockStyle.Top;
             this.subPnlIzqTitTitular.Location = new System.Drawing.Point(0, 0);
             this.subPnlIzqTitTitular.Name = "subPnlIzqTitTitular";
-            this.subPnlIzqTitTitular.Size = new System.Drawing.Size(456, 40);
+            this.subPnlIzqTitTitular.Size = new System.Drawing.Size(455, 40);
             this.subPnlIzqTitTitular.TabIndex = 4;
             // 
             // tblSubPnlIzqTitular
@@ -3659,7 +3659,7 @@
             this.tblSubPnlIzqTitular.Name = "tblSubPnlIzqTitular";
             this.tblSubPnlIzqTitular.RowCount = 1;
             this.tblSubPnlIzqTitular.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblSubPnlIzqTitular.Size = new System.Drawing.Size(456, 37);
+            this.tblSubPnlIzqTitular.Size = new System.Drawing.Size(455, 37);
             this.tblSubPnlIzqTitular.TabIndex = 0;
             // 
             // btnDetallesTitular
@@ -3684,7 +3684,7 @@
             this.btnDetallesTitular.IconVisible = true;
             this.btnDetallesTitular.IconZoom = 70D;
             this.btnDetallesTitular.IsTab = false;
-            this.btnDetallesTitular.Location = new System.Drawing.Point(422, 4);
+            this.btnDetallesTitular.Location = new System.Drawing.Point(421, 4);
             this.btnDetallesTitular.Margin = new System.Windows.Forms.Padding(4);
             this.btnDetallesTitular.Name = "btnDetallesTitular";
             this.btnDetallesTitular.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
@@ -3706,7 +3706,7 @@
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label6.Location = new System.Drawing.Point(3, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(287, 37);
+            this.label6.Size = new System.Drawing.Size(286, 37);
             this.label6.TabIndex = 19;
             this.label6.Text = "Datos Personales de la Tutora:";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3741,7 +3741,7 @@
             this.tblSubPnlIzqDataTerritorio3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 51.02041F));
             this.tblSubPnlIzqDataTerritorio3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 77F));
             this.tblSubPnlIzqDataTerritorio3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 80F));
-            this.tblSubPnlIzqDataTerritorio3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 188F));
+            this.tblSubPnlIzqDataTerritorio3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 189F));
             this.tblSubPnlIzqDataTerritorio3.Controls.Add(this.txtCveLoc, 3, 0);
             this.tblSubPnlIzqDataTerritorio3.Controls.Add(this.txtCveMun, 1, 0);
             this.tblSubPnlIzqDataTerritorio3.Controls.Add(this.label65, 2, 0);
@@ -3769,7 +3769,7 @@
             this.txtCveLoc.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtCveLoc.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtCveLoc.LineThickness = 2;
-            this.txtCveLoc.Location = new System.Drawing.Point(242, 4);
+            this.txtCveLoc.Location = new System.Drawing.Point(241, 4);
             this.txtCveLoc.Margin = new System.Windows.Forms.Padding(4);
             this.txtCveLoc.Name = "txtCveLoc";
             this.txtCveLoc.Size = new System.Drawing.Size(72, 41);
@@ -3791,7 +3791,7 @@
             this.txtCveMun.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtCveMun.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtCveMun.LineThickness = 2;
-            this.txtCveMun.Location = new System.Drawing.Point(83, 4);
+            this.txtCveMun.Location = new System.Drawing.Point(82, 4);
             this.txtCveMun.Margin = new System.Windows.Forms.Padding(4);
             this.txtCveMun.Name = "txtCveMun";
             this.txtCveMun.Size = new System.Drawing.Size(74, 41);
@@ -3803,7 +3803,7 @@
             this.label65.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label65.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label65.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label65.Location = new System.Drawing.Point(164, 0);
+            this.label65.Location = new System.Drawing.Point(163, 0);
             this.label65.Name = "label65";
             this.label65.Size = new System.Drawing.Size(71, 49);
             this.label65.TabIndex = 24;
@@ -3817,7 +3817,7 @@
             this.label69.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label69.Location = new System.Drawing.Point(3, 0);
             this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(73, 49);
+            this.label69.Size = new System.Drawing.Size(72, 49);
             this.label69.TabIndex = 23;
             this.label69.Text = "Cve. Mun:";
             this.label69.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3828,7 +3828,7 @@
             this.tblSubPnlIzqDataTerritorio2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.31847F));
             this.tblSubPnlIzqDataTerritorio2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 49.68153F));
             this.tblSubPnlIzqDataTerritorio2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 79F));
-            this.tblSubPnlIzqDataTerritorio2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 267F));
+            this.tblSubPnlIzqDataTerritorio2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 268F));
             this.tblSubPnlIzqDataTerritorio2.Controls.Add(this.txtSare, 3, 1);
             this.tblSubPnlIzqDataTerritorio2.Controls.Add(this.txtIdSare, 1, 1);
             this.tblSubPnlIzqDataTerritorio2.Controls.Add(this.label80, 2, 1);
@@ -3861,10 +3861,10 @@
             this.txtSare.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtSare.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtSare.LineThickness = 2;
-            this.txtSare.Location = new System.Drawing.Point(243, 59);
+            this.txtSare.Location = new System.Drawing.Point(242, 59);
             this.txtSare.Margin = new System.Windows.Forms.Padding(4);
             this.txtSare.Name = "txtSare";
-            this.txtSare.Size = new System.Drawing.Size(260, 43);
+            this.txtSare.Size = new System.Drawing.Size(261, 43);
             this.txtSare.TabIndex = 35;
             this.txtSare.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3883,7 +3883,7 @@
             this.txtIdSare.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIdSare.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIdSare.LineThickness = 2;
-            this.txtIdSare.Location = new System.Drawing.Point(85, 59);
+            this.txtIdSare.Location = new System.Drawing.Point(84, 59);
             this.txtIdSare.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdSare.Name = "txtIdSare";
             this.txtIdSare.Size = new System.Drawing.Size(71, 43);
@@ -3895,7 +3895,7 @@
             this.label80.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label80.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label80.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label80.Location = new System.Drawing.Point(163, 55);
+            this.label80.Location = new System.Drawing.Point(162, 55);
             this.label80.Name = "label80";
             this.label80.Size = new System.Drawing.Size(73, 51);
             this.label80.TabIndex = 32;
@@ -3917,10 +3917,10 @@
             this.txtRegion.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtRegion.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtRegion.LineThickness = 2;
-            this.txtRegion.Location = new System.Drawing.Point(243, 4);
+            this.txtRegion.Location = new System.Drawing.Point(242, 4);
             this.txtRegion.Margin = new System.Windows.Forms.Padding(4);
             this.txtRegion.Name = "txtRegion";
-            this.txtRegion.Size = new System.Drawing.Size(260, 47);
+            this.txtRegion.Size = new System.Drawing.Size(261, 47);
             this.txtRegion.TabIndex = 26;
             this.txtRegion.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -3931,7 +3931,7 @@
             this.label66.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label66.Location = new System.Drawing.Point(3, 0);
             this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(75, 55);
+            this.label66.Size = new System.Drawing.Size(74, 55);
             this.label66.TabIndex = 21;
             this.label66.Text = "Cve. Region:";
             this.label66.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3952,7 +3952,7 @@
             this.txtIdRegion.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIdRegion.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIdRegion.LineThickness = 2;
-            this.txtIdRegion.Location = new System.Drawing.Point(85, 4);
+            this.txtIdRegion.Location = new System.Drawing.Point(84, 4);
             this.txtIdRegion.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdRegion.Name = "txtIdRegion";
             this.txtIdRegion.Size = new System.Drawing.Size(71, 47);
@@ -3964,7 +3964,7 @@
             this.label67.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label67.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label67.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.label67.Location = new System.Drawing.Point(163, 0);
+            this.label67.Location = new System.Drawing.Point(162, 0);
             this.label67.Name = "label67";
             this.label67.Size = new System.Drawing.Size(73, 55);
             this.label67.TabIndex = 22;
@@ -3978,7 +3978,7 @@
             this.label71.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label71.Location = new System.Drawing.Point(3, 55);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(75, 51);
+            this.label71.Size = new System.Drawing.Size(74, 51);
             this.label71.TabIndex = 31;
             this.label71.Text = "Cve. Sare:";
             this.label71.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

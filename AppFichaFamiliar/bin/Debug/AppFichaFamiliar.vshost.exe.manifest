@@ -47,14 +47,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AppFichaFamiliar.exe" size="1614784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AppFichaFamiliar.exe" size="1615296">
       <assemblyIdentity name="AppFichaFamiliar" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4qNss1X2bTQH4sm2MDHkPj0bg1btP3ZNYQs0w+H7Hco=</dsig:DigestValue>
+        <dsig:DigestValue>5YcdyfONvsj6v6twQajn5fHURgIOVMgKCKisMYMOyJY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
