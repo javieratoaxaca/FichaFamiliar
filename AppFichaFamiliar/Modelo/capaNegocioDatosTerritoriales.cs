@@ -82,11 +82,11 @@ namespace AppFichaFamiliar.Modelo
 
             try
             {
-                var Query = $"SELECT idRegion,idFamilia,curpTutora FROM estructterritorial where curpTutora ='{curp}' limit 1";
+                var Query = $"SELECT idSare,idFamilia,curpTutora FROM estructterritorial where curpTutora ='{curp}' limit 1";
                 var dr = GetDataReader(Query);
                 while (dr.Read())
                 {
-                    cdDatosTerritorialesIdRegion.IdRegion = Convert.ToInt64(dr["idRegion"].ToString());
+                    cdDatosTerritorialesIdRegion.IdRegion = Convert.ToInt64(dr["idSare"].ToString());
                     cdDatosTerritorialesIdRegion.IdFamilia = Convert.ToInt64(dr["idFamilia"].ToString());
                 }
 

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using AppFichaFamiliar.Modelo;
 using AppFichaFamiliar.Data;
 
-
+//Librerias para generar el Pdf
 using System.IO;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
@@ -200,6 +200,7 @@ namespace AppFichaFamiliar.Vista
                    // Seccion de Datos de Tutora
                     cdTutora = cmTutora.getTutora(txtIdFamilia.Text);
                     txtIdTutora.Text = cdTutora.IdIntegrante;
+                    txtdataCurpTutora.Text = cdTutora.CurpTutora;
                     txtNombreCompleto.Text = cdTutora.NombreTutora + " " + cdTutora.APaternoTutora + " " + cdTutora.AMaternoTutora;
                     txtEstatus.Text = cdTutora.SituacionFamilia;
 
@@ -2232,6 +2233,7 @@ namespace AppFichaFamiliar.Vista
                     }
                     break;
                 #endregion
+
                 #region CasoRegion20016
                 case "20016":
                     {
@@ -2802,5 +2804,6 @@ namespace AppFichaFamiliar.Vista
                 }
             }
         }
+
     }
 }

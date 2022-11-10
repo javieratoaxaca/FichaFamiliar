@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmFichaFamiliar));
             this.subpnlEncabezadoFicFam = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
@@ -358,15 +358,15 @@
             this.subpnlEncabezadoFicFam.Dock = System.Windows.Forms.DockStyle.Fill;
             this.subpnlEncabezadoFicFam.Location = new System.Drawing.Point(3, 3);
             this.subpnlEncabezadoFicFam.Name = "subpnlEncabezadoFicFam";
-            this.subpnlEncabezadoFicFam.Size = new System.Drawing.Size(362, 39);
+            this.subpnlEncabezadoFicFam.Size = new System.Drawing.Size(350, 50);
             this.subpnlEncabezadoFicFam.TabIndex = 0;
             // 
             // tableLayoutPanel1
             // 
             this.tableLayoutPanel1.ColumnCount = 3;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.16149F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65.83851F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 202F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 38.07947F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 61.92053F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 50F));
             this.tableLayoutPanel1.Controls.Add(this.btnBuscarFamiliaId, 2, 0);
             this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.txtIdFamilia, 1, 0);
@@ -375,7 +375,7 @@
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(362, 39);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(350, 50);
             this.tableLayoutPanel1.TabIndex = 13;
             // 
             // btnBuscarFamiliaId
@@ -399,14 +399,14 @@
             this.btnBuscarFamiliaId.IconVisible = true;
             this.btnBuscarFamiliaId.IconZoom = 70D;
             this.btnBuscarFamiliaId.IsTab = false;
-            this.btnBuscarFamiliaId.Location = new System.Drawing.Point(163, 4);
+            this.btnBuscarFamiliaId.Location = new System.Drawing.Point(303, 4);
             this.btnBuscarFamiliaId.Margin = new System.Windows.Forms.Padding(4);
             this.btnBuscarFamiliaId.Name = "btnBuscarFamiliaId";
             this.btnBuscarFamiliaId.Normalcolor = System.Drawing.Color.Transparent;
             this.btnBuscarFamiliaId.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
             this.btnBuscarFamiliaId.OnHoverTextColor = System.Drawing.Color.White;
             this.btnBuscarFamiliaId.selected = false;
-            this.btnBuscarFamiliaId.Size = new System.Drawing.Size(32, 31);
+            this.btnBuscarFamiliaId.Size = new System.Drawing.Size(43, 41);
             this.btnBuscarFamiliaId.TabIndex = 18;
             this.btnBuscarFamiliaId.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnBuscarFamiliaId.Textcolor = System.Drawing.Color.White;
@@ -420,7 +420,7 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(48, 39);
+            this.label1.Size = new System.Drawing.Size(108, 50);
             this.label1.TabIndex = 11;
             this.label1.Text = "Familia ID:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -439,18 +439,18 @@
             this.txtIdFamilia.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.txtIdFamilia.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
             this.txtIdFamilia.LineThickness = 2;
-            this.txtIdFamilia.Location = new System.Drawing.Point(59, 5);
+            this.txtIdFamilia.Location = new System.Drawing.Point(119, 5);
             this.txtIdFamilia.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.txtIdFamilia.Name = "txtIdFamilia";
-            this.txtIdFamilia.Size = new System.Drawing.Size(95, 29);
+            this.txtIdFamilia.Size = new System.Drawing.Size(175, 40);
             this.txtIdFamilia.TabIndex = 12;
             this.txtIdFamilia.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // tblPnlEncabezadoFicFam
             // 
             this.tblPnlEncabezadoFicFam.ColumnCount = 2;
-            this.tblPnlEncabezadoFicFam.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 24.07524F));
-            this.tblPnlEncabezadoFicFam.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 75.92477F));
+            this.tblPnlEncabezadoFicFam.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 23.30287F));
+            this.tblPnlEncabezadoFicFam.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 76.69713F));
             this.tblPnlEncabezadoFicFam.Controls.Add(this.btnCerrarFrm, 1, 0);
             this.tblPnlEncabezadoFicFam.Controls.Add(this.subpnlEncabezadoFicFam, 0, 0);
             this.tblPnlEncabezadoFicFam.Dock = System.Windows.Forms.DockStyle.Top;
@@ -459,7 +459,7 @@
             this.tblPnlEncabezadoFicFam.RowCount = 1;
             this.tblPnlEncabezadoFicFam.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tblPnlEncabezadoFicFam.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 45F));
-            this.tblPnlEncabezadoFicFam.Size = new System.Drawing.Size(1532, 45);
+            this.tblPnlEncabezadoFicFam.Size = new System.Drawing.Size(1532, 56);
             this.tblPnlEncabezadoFicFam.TabIndex = 1;
             // 
             // btnCerrarFrm
@@ -470,7 +470,7 @@
             this.btnCerrarFrm.ImageActive = null;
             this.btnCerrarFrm.Location = new System.Drawing.Point(1495, 3);
             this.btnCerrarFrm.Name = "btnCerrarFrm";
-            this.btnCerrarFrm.Size = new System.Drawing.Size(34, 39);
+            this.btnCerrarFrm.Size = new System.Drawing.Size(34, 50);
             this.btnCerrarFrm.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnCerrarFrm.TabIndex = 2;
             this.btnCerrarFrm.TabStop = false;
@@ -482,9 +482,9 @@
             this.pnlCuerpo.Controls.Add(this.pnlPiePagina);
             this.pnlCuerpo.Controls.Add(this.pnlTblBusquedaAvanzada);
             this.pnlCuerpo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlCuerpo.Location = new System.Drawing.Point(0, 45);
+            this.pnlCuerpo.Location = new System.Drawing.Point(0, 56);
             this.pnlCuerpo.Name = "pnlCuerpo";
-            this.pnlCuerpo.Size = new System.Drawing.Size(1532, 915);
+            this.pnlCuerpo.Size = new System.Drawing.Size(1532, 904);
             this.pnlCuerpo.TabIndex = 2;
             // 
             // subPnlCuerpo
@@ -497,7 +497,7 @@
             this.subPnlCuerpo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.subPnlCuerpo.Location = new System.Drawing.Point(0, 45);
             this.subPnlCuerpo.Name = "subPnlCuerpo";
-            this.subPnlCuerpo.Size = new System.Drawing.Size(1532, 860);
+            this.subPnlCuerpo.Size = new System.Drawing.Size(1532, 849);
             this.subPnlCuerpo.TabIndex = 4;
             // 
             // pnlDtgvTutoras
@@ -605,32 +605,32 @@
             // 
             this.dtgvListadoTutora.AllowUserToAddRows = false;
             this.dtgvListadoTutora.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            this.dtgvListadoTutora.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle10.BackColor = System.Drawing.Color.White;
+            this.dtgvListadoTutora.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle10;
             this.dtgvListadoTutora.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.dtgvListadoTutora.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dtgvListadoTutora.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
             this.dtgvListadoTutora.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dtgvListadoTutora.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.Sunken;
             this.dtgvListadoTutora.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Sunken;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgvListadoTutora.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
+            dataGridViewCellStyle11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
+            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
+            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgvListadoTutora.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
             this.dtgvListadoTutora.ColumnHeadersHeight = 45;
             this.dtgvListadoTutora.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(232)))), ((int)(((byte)(220)))));
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dtgvListadoTutora.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
+            dataGridViewCellStyle12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
+            dataGridViewCellStyle12.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(232)))), ((int)(((byte)(220)))));
+            dataGridViewCellStyle12.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
+            dataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dtgvListadoTutora.DefaultCellStyle = dataGridViewCellStyle12;
             this.dtgvListadoTutora.Dock = System.Windows.Forms.DockStyle.Top;
             this.dtgvListadoTutora.EnableHeadersVisualStyles = false;
             this.dtgvListadoTutora.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
@@ -671,8 +671,8 @@
             // 
             this.btnExportPdf.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(188)))), ((int)(((byte)(154)))));
             this.btnExportPdf.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
-            this.btnExportPdf.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnExportPdf.BorderRadius = 0;
+            this.btnExportPdf.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.btnExportPdf.BorderRadius = 7;
             this.btnExportPdf.ButtonText = "";
             this.btnExportPdf.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnExportPdf.DisabledColor = System.Drawing.Color.Gray;
@@ -686,7 +686,7 @@
             this.btnExportPdf.IconRightVisible = true;
             this.btnExportPdf.IconRightZoom = 0D;
             this.btnExportPdf.IconVisible = true;
-            this.btnExportPdf.IconZoom = 70D;
+            this.btnExportPdf.IconZoom = 75D;
             this.btnExportPdf.IsTab = false;
             this.btnExportPdf.Location = new System.Drawing.Point(1166, 46);
             this.btnExportPdf.Margin = new System.Windows.Forms.Padding(4);
@@ -695,9 +695,9 @@
             this.btnExportPdf.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(236)))), ((int)(((byte)(227)))));
             this.btnExportPdf.OnHoverTextColor = System.Drawing.Color.White;
             this.btnExportPdf.selected = false;
-            this.btnExportPdf.Size = new System.Drawing.Size(39, 41);
+            this.btnExportPdf.Size = new System.Drawing.Size(108, 108);
             this.btnExportPdf.TabIndex = 33;
-            this.btnExportPdf.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnExportPdf.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnExportPdf.Textcolor = System.Drawing.Color.White;
             this.btnExportPdf.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExportPdf.Click += new System.EventHandler(this.btnExportPdf_Click);
@@ -4213,7 +4213,7 @@
             // 
             this.pnlPiePagina.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(89)))), ((int)(((byte)(70)))));
             this.pnlPiePagina.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.pnlPiePagina.Location = new System.Drawing.Point(0, 905);
+            this.pnlPiePagina.Location = new System.Drawing.Point(0, 894);
             this.pnlPiePagina.Name = "pnlPiePagina";
             this.pnlPiePagina.Size = new System.Drawing.Size(1532, 10);
             this.pnlPiePagina.TabIndex = 2;
